@@ -1,2 +1,1 @@
-#FirstRepository
-#VNAWY
+NESY TYDA
